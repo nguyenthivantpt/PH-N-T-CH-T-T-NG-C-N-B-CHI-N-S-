@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý Phân tích Tư tưởng Quân nhân",
+  "description": "Một ứng dụng web sử dụng AI để phân tích tư tưởng, thái độ và mức độ ổn định tinh thần của cán bộ, chiến sĩ dựa trên câu trả lời của họ, nhằm hỗ trợ công tác quản lý tư tưởng trong quân đội.",
+  "requestFramePermissions": []
+}
